@@ -1,0 +1,15 @@
+PORT=3000
+MONGO_URI=mongodb://localhost:27017/edtech
+# MONGO_URI=mongodb+srv://your_user:your_password@cluster.mongodb.net/edtech
+JWT_SECRET=edtech_app_api_march_2025
+
+ADA_USER_NAME=
+ADA_PASSWORD=
+ADA_SENT_FROM=
+ADA_API_URL=
+
+DO_SPACE_ACCESS_KEY=
+DO_SPACE_SECRET_KEY=
+DO_SPACE_REGION=
+DO_SPACE_ENDPOINT=
+DO_SPACE_BUCKET_NAME=
